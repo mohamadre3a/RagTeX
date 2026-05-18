@@ -1,0 +1,8 @@
+langchain==1.3.1
+langchain-openai
+langchain-community
+langchain-text-splitters
+faiss-cpu
+python-dotenv
+rich
+tiktoken
