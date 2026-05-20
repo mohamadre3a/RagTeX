@@ -6,3 +6,7 @@ faiss-cpu
 python-dotenv
 rich
 tiktoken
+ipykernel
+jupyter
+rank-bm25
+pandas
