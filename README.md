@@ -1,8 +1,14 @@
-# LaTeX Paper RAG Assistant
+# Note 🚧
+
+This is an ongoing learning project. It is not yet a polished tool for other people to install and use.
+
+The current goal is to build a small but realistic RAG system over a LaTeX academic paper, while learning as I do it.
+
+# LaTeX Paper RAG Assistant 📄🔎
 
 A simple Retrieval-Augmented Generation project for asking questions about a LaTeX academic paper.
 
-This project is my first practical RAG system. Instead of using a generic PDF or website, I use a paper written in LaTeX, because academic papers have structure: sections, equations, appendices, references, figures, and old drafts. The goal is to understand the full RAG pipeline in a small but realistic setting.
+This project is my first practical RAG system. Instead of using a generic PDF or website, I use a paper written in LaTeX because academic papers have structure: sections, equations, appendices, references, figures, and old drafts. The goal is to understand the full RAG pipeline in a small but realistic setting, starting from a simple notebook prototype and gradually making it more LaTeX-aware.
 
 ## What this project does
 
