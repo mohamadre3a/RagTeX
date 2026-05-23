@@ -18,6 +18,9 @@ env/
 # Local paper files
 paper/
 
+# output files
+output/
+
 # Generated vector stores
 storage/
 *.faiss
